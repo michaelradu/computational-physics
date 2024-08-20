@@ -1,0 +1,22 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.dvi
+*.ps
+*.bbl
+*.blg
+*.synctex*
+*.fls
+*.fdb_latexmk
+
+# Editor specific files
+*.swp
+*.swo
+*.vscode/
+*.idea/
+
+# MacOS specific 
+.DS_Store
