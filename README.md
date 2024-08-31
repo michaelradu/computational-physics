@@ -69,19 +69,19 @@ Each contributed model should be organized in its own directory with the followi
 SolutionName/
 │
 ├── SolutionName.ipynb       # Jupyter Notebook containing the computational model
-├── SolutionName.md          # Markdown file describing the solution
 ├── SolutionName.tex         # LaTeX source file for the PDF paper
-└── SolutionName.pdf         # PDF paper following the standard format
+├── SolutionName.pdf         # PDF paper following the standard format
+└── SolutionName.md          # (Optional) Markdown file describing the solution
 ```
 
 ### Contribution Guidelines
 1. **Jupyter Notebook (`.ipynb`)**: Include a well-documented Jupyter Notebook that contains the code for solving the computational problem. Ensure that the notebook includes explanations, code comments, and visualizations.
 
-2. **Markdown File (`.md`)**: Provide a Markdown file that describes the solution in detail. This should include an overview of the problem, methodology, results, and any relevant discussions. **This is required for effortless viewing within GitHub.**
+2. **LaTeX Document (`.tex`)**: Submit a LaTeX source file that is used to create the PDF paper. This document should be formatted according to the standard academic format and include all necessary sections (Abstract, Introduction, Methodology, Results, Discussion, Conclusion).
 
-3. **LaTeX Document (`.tex`)**: Submit a LaTeX source file that is used to create the PDF paper. This document should be formatted according to the standard academic format and include all necessary sections (Abstract, Introduction, Methodology, Results, Discussion, Conclusion).
+3. **PDF Paper (`.pdf`)**: Include the final PDF version of the paper generated from the LaTeX source. This should be a polished document that follows academic standards and includes all relevant sections.
 
-4. **PDF Paper (`.pdf`)**: Include the final PDF version of the paper generated from the LaTeX source. This should be a polished document that follows academic standards and includes all relevant sections.
+4. **(Optional) Markdown File (`.md`)**: Provide a Markdown file that describes the solution in detail. This should include an overview of the problem, methodology, results, and any relevant discussions. **This is optional, but encouraged for effortless viewing within GitHub.**
 
 ### How to Submit a Contribution
 1. Fork the repository and create a new branch for your contribution.
