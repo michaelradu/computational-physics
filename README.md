@@ -50,6 +50,7 @@ jupyter notebook
 ## Notebooks
 
 - **Skydiving with Air Resistance**: This notebook models the skydiving problem, incorporating quadratic air friction. It demonstrates the application of numerical methods to solve ODEs and analyze the impact of air resistance on the skydiver's descent.
+- **SIR Disease Model**: This notebook models the SIR (Susceptible, Infected, Recovered) disease model with additional dynamics for hospitalizations. It utilizes real-world data from the COVID-19 outbreak in Wuhan, China, to analyze disease progression and hospitalization effects. The notebook includes code implementation, visualizations, and a detailed explanation of the ODE derivations and results.
 
 ## Example
 Here’s a brief overview of what you can find in the **Skydiving with Air Resistance** notebook:
